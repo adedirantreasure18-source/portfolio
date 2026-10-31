@@ -1,0 +1,7 @@
+# High-resolution source screenshots; the site ships the .jpg exports
+assets/*.png
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
